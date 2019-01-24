@@ -39,7 +39,10 @@ figcaption {
   background-color: rgba(0, 0, 0, .5);
   bottom: 0.5rem;
   left: 0.5rem;
-  margin: 0;
   padding: 1rem;
   border-radius: 8px;
+}
+
+p {
+  margin: 0;
 }
